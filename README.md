@@ -1,5 +1,7 @@
 # Optical-character-recognitiion
 created an app for ocr.
+working video is available below
+https://youtu.be/1-FRMhFuuiM
 
 IMPLEMENTATION:
 ●I connected my mobile camera and python terminal using ip camera for scanning the page easily using mobile camera but processing the image in python.
@@ -12,7 +14,6 @@ IMPLEMENTATION:
 ![ocr letters classifier](https://github.com/DIVYA422/Optical-character-recognitiion/blob/main/ocr%20letters%20classifier.jpeg?raw=true)
 ![letters display](https://github.com/DIVYA422/Optical-character-recognitiion/blob/main/letters%20display.jpeg?raw=true)
 
-working video is available below
-https://youtu.be/1-FRMhFuuiM
+
 
 
