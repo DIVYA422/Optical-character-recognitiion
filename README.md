@@ -8,7 +8,7 @@ IMPLEMENTATION:
 ● My model is based on tensorflow and keras framework.
 ● I used cnn sequential model to achieve this.
 ● Predicted text in written in a samplefile in my laptop
-
+●using this i am able to scan and transfer around 200 words from book to screen.
 working video is available below
 https://youtu.be/1-FRMhFuuiM
 
